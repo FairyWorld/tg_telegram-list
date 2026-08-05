@@ -1010,7 +1010,6 @@
 ##### Управление проектами, продакт-менеджмент, Agile, Kanban, SCRUM
 * 😵[Products_ru](https://t.me/products_ru) — Чат про управление продуктами, Growth Hacking, Cust Dev, Design Thinking, UX, метрикам и т.д.
 * [Agile_ru](https://t.me/agile_ru) — Общаемся на темы, посвященные Agile, Scrum, Lean, XP, Kanban, инструментам повышения эффективности.
-* 😵[Agile Games](https://t.me/agilegames) — Оффлайн игры, помогающие понять суть гибких методологий. Регулярные митапы в Москве и Питере.
 * [Projects KZ](https://t.me/projects_kz) — Казахстанское сообщество по управлению проектами
 * [Products.KZ](https://t.me/productskz) — Казахстанское сообщество менеджеров по управлению продуктами
 * [Teamlead Bootcamp](https://t.me/tlbootcamp) — Обсуждаем Роадмап Тимлида: https://tlroadmap.io
