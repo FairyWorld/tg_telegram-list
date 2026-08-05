@@ -767,6 +767,7 @@
 * [pro.enterprise](https://t.me/pro_enterprise) — Сервера, системы хранения данных, hardware, InfoSec, сетевое оборудование, облачные инфраструктуры.
 * [Storage Discussions](https://t.me/storagediscussions) — Чат о системах хранения данных
 * [Ru HomeLab](https://t.me/ruhomelab) - Чат о домашних серверах, оборудовании для хоумлаб и селфхосте.
+* [eBPF — русскоязычное сообщество](https://t.me/ru_bpf) — Использование BPF и eBPF в разработке и администрировании
 
 [(Назад к меню)](#Меню)
 
@@ -1010,7 +1011,6 @@
 ##### Управление проектами, продакт-менеджмент, Agile, Kanban, SCRUM
 * 😵[Products_ru](https://t.me/products_ru) — Чат про управление продуктами, Growth Hacking, Cust Dev, Design Thinking, UX, метрикам и т.д.
 * [Agile_ru](https://t.me/agile_ru) — Общаемся на темы, посвященные Agile, Scrum, Lean, XP, Kanban, инструментам повышения эффективности.
-* 😵[Agile Games](https://t.me/agilegames) — Оффлайн игры, помогающие понять суть гибких методологий. Регулярные митапы в Москве и Питере.
 * [Projects KZ](https://t.me/projects_kz) — Казахстанское сообщество по управлению проектами
 * [Products.KZ](https://t.me/productskz) — Казахстанское сообщество менеджеров по управлению продуктами
 * [Teamlead Bootcamp](https://t.me/tlbootcamp) — Обсуждаем Роадмап Тимлида: https://tlroadmap.io
@@ -1200,6 +1200,5 @@
 
 ##### Книги, философия
 * 😵[Le Bookacheaux](https://t.me/bookach) — Читаем и обмениваемся, рецензируем и советуем, выбираем произведение недели и просто беззаботно проводим время в библиотеке.
-* [#Bookcrossing_spb](https://t.me/bookcrossing_spb) — Обмен книгами в Санкт-Петербурге, буккроссинг.
 
 [(Назад к меню)](#Меню)
