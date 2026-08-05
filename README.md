@@ -767,6 +767,7 @@
 * [pro.enterprise](https://t.me/pro_enterprise) — Сервера, системы хранения данных, hardware, InfoSec, сетевое оборудование, облачные инфраструктуры.
 * [Storage Discussions](https://t.me/storagediscussions) — Чат о системах хранения данных
 * [Ru HomeLab](https://t.me/ruhomelab) - Чат о домашних серверах, оборудовании для хоумлаб и селфхосте.
+* [eBPF — русскоязычное сообщество](https://t.me/ru_bpf) — Использование BPF и eBPF в разработке и администрировании
 
 [(Назад к меню)](#Меню)
 
